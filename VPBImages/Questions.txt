@@ -1,0 +1,24 @@
+Questions:
+
+How the top-down maps are constructed. 
+ [Support: feedback sent to  the lateral genital nucleus from the primary visual cortex?]
+ 
+ ## Why top-down maps?
+ 
+What exactly you want to do, how segmentation is affected by onset. 
+Origination from a phylogenic basis to cognitive basis. 
+
+A lot of volume is dedicated to looking at what to look at next? On the retinotopy perspective, the region of cortex corresponding to the fovea (a very small region on the retina) is ginormous.
+
+## What fovea sees first? 
+
+V1 - Primary, V2 - Secondary, V3 - Tertiary. Functional role of the higher order areas, get the lower level info from V1. What's known about these regions?
+"INCREMENTAL LEARNING" Shouting out!!! -HA
+V4 is biased to cells that respond to colour. MT, MS are sensitive to change in motion. NOTE: But all of the cells in V4, MT, MS are not dedicated to these functions.
+
+
+"The retinotopy is degraded in the higher order visual areas." Statement: Their receptive field is much bigger, not a part of the image. But the image as a whole. This clearly supports the theory of incremental learning establishing the relationships between the objects: (a) The cells have other work to do (possibly related to establishing relationships) (b) The cells focus on entire image rather than a part of it (possibly the cells are focussed on working on higher order relation than edges) [CNN, got that right!] ---- 
+
+## Do we have any research supporting about the ordering of these regions or these regions work together?
+
+
